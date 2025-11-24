@@ -1,0 +1,14 @@
+Feature Name,Importance Score
+NumOfProducts,0.27955872
+IsActiveMember,0.21680458
+Age,0.118783645
+Geography,0.07160886
+Balance,0.052998412
+Gender,0.04475329
+EstimatedSalary,0.032554775
+RowNumber,0.03188548
+CreditScore,0.03155716
+CustomerId,0.031212907
+HasCrCard,0.030121706
+Surname,0.029082483
+Tenure,0.029078044
