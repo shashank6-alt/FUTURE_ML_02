@@ -1,0 +1,38 @@
+🧠 Task 2 – Customer Churn Prediction System
+By Akshay Posina
+Machine Learning Internship | Future Interns
+
+📍 Overview
+This project predicts which customers are likely to stop using a service (churn) using the XGBoost machine learning model. 
+It helps businesses identify at-risk customers and take proactive actions to improve retention.
+
+📂 Files Included
+1. Customer_Churn.csv – Original dataset containing customer and account details.
+2. Churn_prediction.py – Python script for data preprocessing, model training, and evaluation.
+3. Churn_Predictions.csv – Model output file containing churn probability for each customer.
+4. Feature_Importance.csv – Feature importance values extracted from XGBoost.
+5. Task-2_Customer_Churn_Akshay_Posina.pbix – Power BI dashboard visualizing key churn insights and metrics.
+
+⚙️ Model Workflow
+- Cleaned and prepared the dataset using Pandas and Scikit-learn.
+- Encoded categorical features and scaled numeric data.
+- Trained an XGBoost Classifier on the processed dataset.
+- Evaluated the model using Accuracy, ROC-AUC, Precision, Recall, and Confusion Matrix.
+- Exported results to CSV for Power BI visualization.
+
+📊 Dashboard Highlights
+- Churn by Gender and Geography
+- Feature Importance Visualization
+- Overall Churn Rate Card
+- Interactive insights for business decisions
+
+🧩 Tools & Technologies
+Python | XGBoost | Pandas | Matplotlib | Scikit-learn | Power BI
+
+🎯 Key Learnings
+- Predictive Modeling (Classification)
+- Feature Engineering & Data Scaling
+- Model Evaluation Techniques
+- Business Storytelling using Power BI
+
+✅ Task Completed Successfully
